@@ -421,9 +421,11 @@ npm run dev
 ## 📞 Support & Resources
 
 - **Documentation**: https://docs.kapsul.id
-- **Community Forum**: https://forum.kapsul.id
-- **Email Support**: support@kapsul.id
-- **YouTube Tutorial**: https://youtube.com/@kapsulnusantara
+- **Website**: https://toer.my.id
+- **Email Support**: pamungkazcatur@gmail.com
+- **Youtube Channel**: https://youtube.com/@KangToer
+- **Whatssap Channel**: https://whatsapp.com/channel/0029Vb6R2Ny2v1J1dll5Mq27
+- **Provide to you By** : Catur Pamungkas, S.Pd.,Gr. | Catatan Guru IPS
 
 ---
 
